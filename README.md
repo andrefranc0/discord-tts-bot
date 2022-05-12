@@ -191,7 +191,7 @@ Make sure to have `enable_keep_alive` set to `true` and use UptimeRobot to poll 
 
 To deploy to Heroku, you can click on the image below and login to your account.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/moonstar-x/discord-tts-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/andrefranc0/discord-tts-bot)
 
 You can now go back to your app's *Overview*, make sure you disable the *web* dyno and enable the *bot* dyno. Your bot should now be up and running. Remember you can always check your bot's console if you access the *View Logs* in the *More* dropdown menu.
 
